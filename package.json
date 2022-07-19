@@ -1,0 +1,40 @@
+{
+  "name": "entry-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@mdi/js": "^6.9.96",
+    "@mdi/react": "^1.6.0",
+    "aio-button": "^5.2.3",
+    "aio-table": "^7.1.1",
+    "aio-validation": "^3.0.2",
+    "gah-datepicker": "^4.0.5",
+    "jquery": "^3.6.0",
+    "prismjs": "^1.28.0",
+    "r-examples": "^1.0.4",
+    "r-range-slider": "^4.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-virtual-dom": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadFeiz/entry-point.git"
+  },
+  "author": "mohamad s feiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadFeiz/entry-point/issues"
+  },
+  "homepage": "https://github.com/mohammadFeiz/entry-point#readme"
+}
